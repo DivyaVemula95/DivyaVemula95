@@ -33,9 +33,21 @@ Versatile software engineer and data specialist with 5+ years of experience desi
 
 ## 👩‍💻 Professional Experience  
 
+### **AI/ML Engineer**  
+*Starr Insurance Companies – Atlanta, GA*  
+**Dec 2024 – Jan 2026**  
+- Architected Snowflake ELT pipelines using dbt, transforming raw policy, claims, and customer data into dimensional fact and dimension models, improving analytics and ML feature availability by 45%.  
+- Engineered scalable AWS-based data ingestion pipelines (S3, RDS → Snowflake), processing 1M+ insurance records daily with optimized performance and governed access.
+- Deployed and operationalized machine learning models on AWS SageMaker, integrating Lambda-based event-driven inference to deliver real-time risk and decisioning outputs with <200 ms latency.   
+- Orchestrated end-to-end data and ML workflows using Apache Airflow, reducing pipeline failures by 40% and ensuring SLA-compliant processing across ingestion, transformation, and scoring layers.
+- Developed FastAPI/Flask services to expose ML and GenAI-driven insights to internal insurance applications, supporting 5+ downstream systems and improving decision turnaround time by 30%. 
+- Implemented CI/CD pipelines with Docker and GitHub Actions, enabling automated testing, versioned deployments, and rollback strategies, reducing production release cycles by 50%.
+- Designed interactive Power BI dashboards using DAX and Power Query to visualize underwriting KPIs, portfolio risk indicators, and model outputs, driving 25% faster executive decision-making.
+- Partnered with underwriting, actuarial, and compliance teams to align data models, ML outputs, and dashboards with regulatory and audit requirements, ensuring enterprise-grade reliability.
+
 ### **Graduate Research Assistant – AI/ML Research & Development**  
 *Georgia State University – Atlanta, GA*  
-**Aug 2024 – Jul 2025**  
+**Aug 2024 – Aug 2025**  
 - Designed and deployed an AI-powered resume screening platform using BERT and spaCy, reducing manual resume processing time by 85% and ensuring consistency in candidate evaluation.  
 - Implemented robust quality checks for NLP pipelines and classification models, including drift detection and automated retraining triggers using Evidently AI.  
 - Automated administrative workflows across departments with Power Automate, saving 20+ hours/week and reducing human error in daily operations.  
@@ -44,19 +56,16 @@ Versatile software engineer and data specialist with 5+ years of experience desi
 - Created interactive Power BI dashboards to track application funnel metrics, ML model KPIs, and workflow health; shared actionable insights with university leadership.  
 - Collaborated with 6+ departments to gather data requirements, standardize reporting formats, and enforce data governance practices for consistent analytics delivery.  
 
-### **Software Engineer – Machine Learning & Data Engineering**  
+### **Software Engineer – Data Engineering**  
 *Cognizant Technology Solutions Ltd. – Chennai, India*  
 **Oct 2021 – Dec 2022**  
-- Developed and deployed a financial chatbot using GPT-3.5 integrated with RAG (Retrieval-Augmented Generation via Pinecone), addressing over 50K+ user queries/month with an 85% resolution rate.  
-- Led data quality validation and testing pipelines for chatbot logs and extracted metrics; ensured clean, reliable data for continuous model improvement.  
 - Automated SharePoint task flows and data transfers using Power Automate, eliminating repetitive tasks and recovering 20+ hours of weekly effort.  
 - Designed and migrated relational schemas for reporting databases; tuned SQL queries to improve performance by 80%, enabling faster insights for business stakeholders.  
 - Built a custom Named Entity Recognition (NER) system in spaCy to extract financial terms, improving chatbot intent detection by 25%.  
 - Created ETL pipelines to ingest and transform 100K+ financial records/week into cloud-based analytics platforms for fraud detection and user segmentation.  
-- Led cloud-based deployments using Docker and AWS Lambda, converting 6 AI prototypes into production-grade microservices, increasing deployment speed by 35%.  
 - Delivered weekly data visualizations and performance reports to product managers and senior stakeholders, translating technical results into business decisions.  
 
-### **Technology Analyst – Data Science & Advanced Analytics**  
+### **Technology Analyst – Data Analytics**  
 *Infosys Ltd. – Chennai, India*  
 **Dec 2017 – Oct 2021**  
 - Managed large-scale content migration from on-premise SharePoint to SharePoint Online across 50+ sites, implementing automated validation to ensure 100% data accuracy and seamless user adoption.  
