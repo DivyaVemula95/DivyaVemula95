@@ -1,5 +1,5 @@
 # Divya Vemula  
-📧 📞 +1 812-552-6230 | 🌐 [LinkedIn](https://www.linkedin.com/in/divyavemula96/) | 💻 [GitHub](https://github.com/DivyaVemula95) | 📍 Atlanta, GA
+📧 📞 +1 812-552-6230 | 🌐 [LinkedIn](https://www.linkedin.com/in/divyavemula96/) | 💻 [GitHub](https://github.com/DivyaVemula95) | 📍 
 
 ---
 
